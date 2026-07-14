@@ -1,0 +1,28 @@
+# glance
+
+Section 1:
+What does it do:
+`glance` reads a file and prints a quick summary: the first 5 lines and the last 5 lines all in a single command. It's meant to save time compared to running `head`, `tail`, and `wc` separately when you just want a fast overview of a file's contents.
+
+How to run it:
+You would run it with "node newfile.js <filename>"
+
+Command Combinations:
+This is a easy-to-use command which combines 'head', 'tail', and 'wc' into a single summary command.
+
+
+Section 2:
+what you asked AI:
+I asked AI to help explain to me the other commands such as "cat", "wc", etc because I was not fully aware. 
+
+
+where AI helped:
+Giving examples of the various commands in actual uses. 
+
+
+where you had to think independently:
+I did so when having to write the glance code myself like when using split and join commands. 
+
+
+what AI got wrong or missed:
+The start of troubleshooting relied on me correctly describing what happened, so a few rounds of back-and-forth were necessary before the actual bug (like the `git branch add origin` vs `git remote add origin` typo) was recognized. 
