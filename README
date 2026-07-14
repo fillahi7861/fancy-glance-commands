@@ -5,7 +5,7 @@ What does it do:
 `glance` reads a file and prints a quick summary: the first 5 lines and the last 5 lines all in a single command. It's meant to save time compared to running `head`, `tail`, and `wc` separately when you just want a fast overview of a file's contents.
 
 How to run it:
-You would run it with "node newfile.js <filename>"
+You would run it with "node glance.js <filename>"
 
 Command Combinations:
 This is a easy-to-use command which combines 'head', 'tail', and 'wc' into a single summary command.
